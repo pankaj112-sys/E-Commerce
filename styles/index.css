@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+@font-face {
+    font-family: "outfit-medium";
+    src: url('../fonts/Outfit-Medium.ttf') format('truetype');
+}
+
+.outfit-medium{
+    font-family: "outfit-medium";
+}
+
+@font-face {
+    font-family: "outfit-thin";
+    src: url('../fonts/Outfit-Thin.ttf') format('truetype');
+}
+
+.outfit-thin{
+    font-family: "outfit-thin";
+}
+
+@font-face {
+    font-family: "outfit-extrabold";
+    src: url('../fonts/Outfit-ExtraBold.ttf') format('truetype');
+}
+
+.outfit-extrabold{
+    font-family: "outfit-extrabold";
+}
+
+@font-face {
+    font-family: "outfit-extralight";
+    src: url('../fonts/Outfit-ExtraLight.ttf') format('truetype');
+}
+
+.outfit-extralight{
+    font-family: "outfit-extralight";
+}
+@font-face {
+    font-family: "outfit-light";
+    src: url('../fonts/Outfit-Light.ttf') format('truetype');
+}
+
+.outfit-light{
+   font-family: "outfit-light"; 
+}
