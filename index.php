@@ -26,7 +26,7 @@
                 <p>Shop <span>Lite</span></p>
                 <ul>
                     <li>HOME</li>
-                    <li>ABOUT</li>
+                    <li><a href="./about.php"> ABOUT</a></li>
                     <li>SHOP</li>
                     <li>BLOGS</li>
                     <li>PAGES</li>
