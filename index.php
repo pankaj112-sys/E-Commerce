@@ -13,32 +13,12 @@
         rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
         crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 
 <body>
     <header>
-        <div>
-            <p>Need help? Call us 112233344455</p>
-            <p>Summer sale discount off 60% off! Shop Now</p>
-            <p>2-3 business days delivery & free returns</p>
-        </div>
-        <div>
-            <p class="outfit-medium">Shop <span>Lite</span></p>
-            <ul>
-                <li>HOME</li>
-                <li>ABOUT</li>
-                <li>SHOP</li>
-                <li>BLOGS</li>
-                <li>PAGES</li>
-                <li>CONTACT</li>
-            </ul>
-            <ul>
-                <li><img src="./images/search.svg" alt="search"></li>
-                <li><img src="./images/profile.svg" alt="Profile"></li>
-                <li><img src="./images/favourite.svg" alt="like"></li>
-                <li><img src="./images/cart.svg" alt="cart"></li>
-            </ul>
-        </div>
+       <?php include './header.php' ?>
     </header>
 
     <main>

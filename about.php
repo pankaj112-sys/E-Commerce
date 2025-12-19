@@ -11,12 +11,12 @@
 <body>
     <header>
        <?php include './header.php' ?>
-
     </header>
+    
     <div class="bg-[#F5F5F5] p-20">
         <h1 class=" flex justify-center  text-[40px]">ABOUT US</h1>
         <span class="flex justify-center">
-            <a href="">Home > </a>
+            <a href="./index.php">Home > </a>
             <u>About us</u>
         </span>
     </div>
