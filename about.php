@@ -9,38 +9,18 @@
 </head>
 
 <body>
-    <header class=" bg-gray-300 ">
-        <div class="flex justify-center gap-[220px] border p-2">
-            <p>Need help? Call us 11 22 333 444 55</p>
-            <p>Summer sale discount of 60% off! <u>Shop Now</u></p>
-            <p> 2-3 business days delivery & free returns</p>
-        </div>
-        <div class="flex justify-between bg-gray-300 p-5">
-            <h1 class="">SHOPLITE</h1>
-            <div class="flex gap-[20px]">
-                <a href="">HOME</a>
-                <a href=""> ABOUT </a>
-                <a href="">SHOP</a>
-                <a href="">BLOGS</a>
-                <a href="">PAGES</a>
-                <a href="">CONTACT</a>
-            </div>
-            <div class="">
-                <img src="" alt="">
-                <img src="" alt="">
-                <img src="" alt="">
-            </div>
-        </div>
+    <header>
+       <?php include './header.php' ?>
 
     </header>
-    <div class=" bg-red-300 p-20">
+    <div class="bg-[#F5F5F5] p-20">
         <h1 class=" flex justify-center  text-[40px]">ABOUT US</h1>
         <span class="flex justify-center">
             <a href="">Home > </a>
             <u>About us</u>
         </span>
     </div>
-    <div class="flex justify-center bg-gray-600 h-[200px] gap-[40px] p-20">
+    <div class="flex justify-center h-[200px] gap-[40px] p-20">
         <div class="">
             <img src="" class="" alt="">
             <span class="text-[18px]">Free delivery </span>
@@ -64,7 +44,7 @@
                 Consectetur adipi elit lorem ipsum dolor sit amet.
             </h4>
 
-        </div>
+        </div>   
 
     </div>
     <div class="flex p-20 py-40 h-[560px] border">
