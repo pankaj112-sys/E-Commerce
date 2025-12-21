@@ -46,3 +46,11 @@
 .outfit-light{
    font-family: "outfit-light"; 
 }
+
+.scrolls{
+    border: 2px solid red;
+}
+
+.scrolls::-webkit-scrollbar{
+    display: none;
+}

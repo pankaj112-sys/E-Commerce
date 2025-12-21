@@ -8,13 +8,16 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 
-<body class="" style=" margin-left:108px; margin-right:108px;">
-        <h1 class="text-[30px] outfit-extralight inline" style="margin-bottom: 36px;">Customers reviews <span class="text-[30px]">///////////////////////////////////////////////////////////////////////////////////////////////////</span></h1>
-        <div class="flex overflow-x-auto gap-5 [&>*]:border [&>*]:w-[500px] [&>*]:h-[317px] [&>*]:shrink-0 [&>*]:rounded-xl">
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ut recusandae beatae aperiam, numquam corrupti unde minima distinctio eveniet id cum, assumenda blanditiis incidunt expedita veniam mollitia consequuntur error enim.</div>
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ut recusandae beatae aperiam, numquam corrupti unde minima distinctio eveniet id cum, assumenda blanditiis incidunt expedita veniam mollitia consequuntur error enim.</div>
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ut recusandae beatae aperiam, numquam corrupti unde minima distinctio eveniet id cum, assumenda blanditiis incidunt expedita veniam mollitia consequuntur error enim.</div>
-            <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ut recusandae beatae aperiam, numquam corrupti unde minima distinctio eveniet id cum, assumenda blanditiis incidunt expedita veniam mollitia consequuntur error enim.</div>
+<body style="margin-left:108px; margin-right:108px;">
+        <h1 class="text-[30px] outfit-extralight" style="margin-bottom: 36px;">Customers reviews ////////////////////////////////////////////////////////////////////////////////////////</h1>
+
+        <div class="flex overflow-x-auto gap-5 [&>*]:border [&>*]:border-[#E0E0E0] [&>*]:w-[500px] [&>*]:h-[317px] [&>*]:shrink-0 [&>*]:rounded-xl scrolls">
+            <div style="padding:40px;"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi fugit mollitia vero dicta est delectus temporibus, in quis odio recusandae facilis corrupti, a exercitationem nesciunt laborum dolore labore quidem architecto? <div style="padding-top:30px;"> <img src="./images/starts.svg" class="inline" alt="stars"><p>hello world</p></div></p></div>
+            <div style="padding:40px;"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi fugit mollitia vero dicta est delectus temporibus, in quis odio recusandae facilis corrupti, a exercitationem nesciunt laborum dolore labore quidem architecto? <div style="padding-top:30px;"> <img src="./images/starts.svg" class="inline" alt="stars"><p>hello world</p></div></p></div>
+            <div style="padding:40px;"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi fugit mollitia vero dicta est delectus temporibus, in quis odio recusandae facilis corrupti, a exercitationem nesciunt laborum dolore labore quidem architecto? <div style="padding-top:30px;"> <img src="./images/starts.svg" class="inline" alt="stars"><p>hello world</p></div></p></div>
+            <div style="padding:40px;"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi fugit mollitia vero dicta est delectus temporibus, in quis odio recusandae facilis corrupti, a exercitationem nesciunt laborum dolore labore quidem architecto? <div style="padding-top:30px;"> <img src="./images/starts.svg" class="inline" alt="stars"><p>hello world</p></div></p></div>
+            <div style="padding:40px;"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi fugit mollitia vero dicta est delectus temporibus, in quis odio recusandae facilis corrupti, a exercitationem nesciunt laborum dolore labore quidem architecto? <div style="padding-top:30px;"> <img src="./images/starts.svg" class="inline" alt="stars"><p>hello world</p></div></p></div>
+            <div style="padding:40px;"><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi fugit mollitia vero dicta est delectus temporibus, in quis odio recusandae facilis corrupti, a exercitationem nesciunt laborum dolore labore quidem architecto? <div style="padding-top:30px;"> <img src="./images/starts.svg" class="inline" alt="stars"><p>hello world</p></div></p></div>
         </div>
     </div>
 </body>
