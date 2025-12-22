@@ -7,7 +7,7 @@
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link rel="stylesheet" href="./styles/fonts.css">
-         <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
    </head>
 
 <body>

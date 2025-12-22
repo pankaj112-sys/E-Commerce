@@ -110,8 +110,9 @@
         </div>
         </div>
             <?php include "./reviews.php" ?>
+            <?php include "./posts.php" ?>
     </main>
-
+<hr class="text-[#E0E0E0]">
     <footer>
         <?php include "./footer.php" ?>
 

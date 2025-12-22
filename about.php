@@ -69,6 +69,8 @@
         
     </div>
     <?php include "./reviews.php" ?>
+    <?php include "./posts.php" ?>
+    <hr class="text-[#E0E0E0]">
     <?php include "./footer.php" ?>
     
 </body>

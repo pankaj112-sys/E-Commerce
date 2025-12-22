@@ -46,7 +46,11 @@
 .outfit-light{
    font-family: "outfit-light"; 
 }
+@font-face {
+    font-family: "outfit-regular";
+    src: url('../fonts/Outfit-Regular.ttf') format('truetype');
+}
 
-.scrolls{
-    border: none;
+.outfit-regular{
+   font-family: "outfit-regular"; 
 }
