@@ -16,7 +16,7 @@
 
     <div class="flex flex-col justify-center items-center h-[281px] bg-[#F5F5F5]">
         <h1 class="outfit-extralight text-[60px]">CONTACT</h1>
-        <p class="outfit-extralight"> Home > <a href="./contact.php" class="outfit-extralight">Contact</a></p>
+        <p class="outfit-extralight"> <a href="./index.php" >Home </a> > <a href="./contact.php" class="outfit-extralight">Contact</a></p>
     </div>
 
 

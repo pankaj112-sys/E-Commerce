@@ -26,13 +26,13 @@
     <!-- Second Navbar -->
     <div class="h-[69px] flex justify-evenly items-center gap-[12em]">
         <h1 class="text-[31px] outfit-medium">SHOP <span class="text-[31px] outfit-thin">LITE</span></h1>
-        <div class="flex gap-[20px]">
+        <div class="flex gap-[25px]">
             <a class="text-[16px] outfit-light" href="./index.php">HOME</a>
             <a class="text-[16px] outfit-light" href="./about.php"> ABOUT </a>
             <a class="text-[16px] outfit-light" href="./shop.php">SHOP</a>
             <a class="text-[16px] outfit-light" href="#">BLOGS</a>
-            <a class="text-[16px] outfit-light" href="#">PAGES</a>
-            <a class="text-[16px] outfit-light" href="#">CONTACT</a>
+            <!-- <a class="text-[16px] outfit-light" href="#">PAGES</a> -->
+            <a class="text-[16px] outfit-light" href="./contact.php">CONTACT</a>
         </div>
         <div class="flex [&>*]:size-5 gap-5">
             <img src="./images/search.svg" alt="Search">
@@ -43,5 +43,4 @@
     </div>
    
 </body>
-
 </html>
